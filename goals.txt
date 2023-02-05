@@ -1,0 +1,8 @@
+- Add UI                            -  30%
+- Handle sidebar                    -  50%
+    - filter by                 -   0%
+    - read available filters    - 100%
+- scrape those who gave kudos.      - no
+- scrape from WaybackMachine        -   0%
+- read people's bookmarks           -   0%
+- make a database of tags
